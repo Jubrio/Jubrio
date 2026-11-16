@@ -95,12 +95,22 @@ I enjoy building modern, efficient, and scalable applications using different te
 
 ---
 
-## 📊 GitHub Statistics
-
+<h2 align="center">🐙 Find Me on GitHub</h2>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Jubrio&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Jubrio&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
+  <a href="https://github.com/Jubrio">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+         width="100"
+         alt="GitHub Logo">
+  </a>
+</p>
+
+<h3 align="center">
+  <a href="https://github.com/Jubrio">Jubrio</a>
+</h3>
+
+<p align="center">
+  Explore my repositories and projects on GitHub!
 </p>
 
 
