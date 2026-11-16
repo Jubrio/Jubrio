@@ -97,9 +97,12 @@ I enjoy building modern, efficient, and scalable applications using different te
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jubrio&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jubrio&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Jubrio&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Jubrio&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
+</p>
+
 
 ---
 
