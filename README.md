@@ -95,27 +95,6 @@ I enjoy building modern, efficient, and scalable applications using different te
 
 ---
 
-<h2 align="center">🐙 Find Me on GitHub</h2>
-
-<p align="center">
-  <a href="https://github.com/Jubrio">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
-         width="100"
-         alt="GitHub Logo">
-  </a>
-</p>
-
-<h3 align="center">
-  <a href="https://github.com/Jubrio">Jubrio</a>
-</h3>
-
-<p align="center">
-  Explore my repositories and projects on GitHub!
-</p>
-
-
----
-
 ## 📫 Let's Connect!
 
 - 📧 [jubriorazaka09@gmail.com](mailto:jubriorazaka09@gmail.com)
